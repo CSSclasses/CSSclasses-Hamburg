@@ -1,0 +1,14 @@
+.headline {
+	text-align: center;
+	color: #fcfcfc;
+	text-shadow: 0 0 .625rem #212121;
+
+	&--featured {
+		font-size: 32px;
+		text-transform: uppercase;
+	}
+
+	&--sub {
+		font-size: 22px;
+	}
+}
