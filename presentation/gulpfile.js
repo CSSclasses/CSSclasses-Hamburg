@@ -19,7 +19,7 @@ gulp.task("browser-sync", function () {
 
 gulp.task('copy', function() {
     return gulp.src([
-            './index.html',
+            './*.html',
             './js/reveal.js',
             './assets/**'
         ])
@@ -29,7 +29,7 @@ gulp.task('copy', function() {
 // Compiles your selected scss file, autoprefixes and minifies it and saves it to dist folder.
 
 gulp.task("scss", function () {
-    gulp.src(["./scss/style.scss"])
+    gulp.src(["./scss/*.scss"])
         .pipe(sass({
             onError: function (err) {
                 return notify().write(err);
