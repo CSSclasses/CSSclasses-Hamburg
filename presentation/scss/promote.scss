@@ -26,7 +26,7 @@ body {
 	margin-top: 60px;
 
 	&__item {
-		clear: left;
+		clear: both;
 		list-style: none;
 		color: #fcfcfc;
 
@@ -35,7 +35,8 @@ body {
 		}
 
 		&__description {
-			float: left;
+			float: right;
+			width: calc(100% - 70px);
 			font-size: 25px;
 			line-height: 37px;
 			font-weight: bold;
@@ -48,8 +49,8 @@ body {
 
 .fa {
 	float: left;
-	width: 30px;
 	text-align: center;
+	width: 30px;
 	font-size: 2.2em;
 	color: #fcfcfc;
 }
