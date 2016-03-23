@@ -11,3 +11,6 @@
 * [Stefan Schult](https://github.com/Schubidu)
 * [Jonas Reitmann](https://github.com/jonicious)
 * [Kerstin Puigmarti Concha](http://www.meetup.com/opentechschool-hamburg/members/39183352/)
+
+### not sure yet
+* [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
