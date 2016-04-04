@@ -13,6 +13,7 @@
 * [Kerstin Puigmarti Concha](http://www.meetup.com/opentechschool-hamburg/members/39183352/)
 * [Nils Schönwald](http://www.meetup.com/de-DE/opentechschool-hamburg/members/163429662/)
 * [Emanuel Kluge](https://github.com/herschel666)
+* [Marcel](http://www.meetup.com/de-DE/opentechschool-hamburg/members/202529655/)
 
 ### not sure yet
 * [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
