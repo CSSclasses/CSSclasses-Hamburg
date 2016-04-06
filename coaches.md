@@ -14,6 +14,7 @@
 * [Nils Schönwald](http://www.meetup.com/de-DE/opentechschool-hamburg/members/163429662/)
 * [Emanuel Kluge](https://github.com/herschel666)
 * [Marcel](http://www.meetup.com/de-DE/opentechschool-hamburg/members/202529655/)
+* [Laura Bergenthal-Grotlüschen](http://www.meetup.com/de-DE/opentechschool-hamburg/members/202711065/)
 
 ### not sure yet
 * [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
