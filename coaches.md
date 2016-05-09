@@ -18,6 +18,7 @@
 * [ilithya](http://www.meetup.com/opentechschool-hamburg/members/186473647/)
 * [Johannes Bräunig](http://www.meetup.com/opentechschool-hamburg/members/201301706/)
 * [Martin Schuhfuss](http://twitter.com/usefulthink)
+* [Uli Schumacher](https://github.com/Shoom)
 
 ### not sure yet
 * [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
