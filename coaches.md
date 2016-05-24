@@ -20,10 +20,12 @@
 * [Martin Schuhfuss](http://twitter.com/usefulthink)
 * [Uli Schumacher](https://github.com/Shoom)
 * [Felix Lehmann](http://github.com/FelixLehmannBLN)
+* [Berit Haak](https://twitter.com/abgehaakt)
+* [Silke Voigts](https://twitter.com/silkine)
 
 ### not sure yet
 * [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
-* [Stefan Brück]
+* Stefan Brück
 
 ## Briefing via mail
 
