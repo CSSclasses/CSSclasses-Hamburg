@@ -22,6 +22,7 @@
 * [Felix Lehmann](http://github.com/FelixLehmannBLN)
 * [Berit Haak](https://twitter.com/abgehaakt)
 * [Silke Voigts](https://twitter.com/silkine)
+* [Gregor Adams](https://twitter.com/GregorAdams)
 
 ### not sure yet
 * [Marlen Jacob](http://www.meetup.com/de-DE/opentechschool-hamburg/members/64503762/)
