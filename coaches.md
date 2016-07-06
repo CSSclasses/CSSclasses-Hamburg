@@ -1,5 +1,19 @@
 # Coaches
 
+## List of coaches (23.07.2016)
+* [Nils Schönwald](http://www.meetup.com/de-DE/opentechschool-hamburg/members/163429662/)
+* [Uli Schumacher](https://github.com/Shoom)
+* [Felix Lehmann](http://github.com/FelixLehmannBLN)
+* [Thorben von Hacht](http://www.meetup.com/de-DE/opentechschool-hamburg/members/193488572/)
+* [Wiebke](http://www.meetup.com/de-DE/opentechschool-hamburg/members/203240050/)
+* [Kerstin Puigmarti Concha](http://www.meetup.com/opentechschool-hamburg/members/39183352/)
+* [Leonard Koch](https://github.com/LeonardKoch)
+* [Klaus Trainer](https://github.com/KlausTrainer)
+* [Isabel Varela](https://github.com/fallera)
+* [Markus Bertling](https://github.com/HerrBertling)
+* [Stefan Schult](https://github.com/Schubidu)
+* [Jonas Reitmann](https://github.com/jonicious)
+
 ## List of coaches (28.05.2016)
 
 * [Kevin Lorenz](https://github.com/verpixelt)
