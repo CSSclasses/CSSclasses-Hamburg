@@ -13,6 +13,7 @@
 * [Markus Bertling](https://github.com/HerrBertling)
 * [Stefan Schult](https://github.com/Schubidu)
 * [Jonas Reitmann](https://github.com/jonicious)
+* [Sven-S. Porst](https://github.com/ssp)
 
 ## List of coaches (28.05.2016)
 
