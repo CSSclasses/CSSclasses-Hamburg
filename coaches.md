@@ -15,6 +15,7 @@
 * [Jonas Reitmann](https://github.com/jonicious)
 * [Sven-S. Porst](https://github.com/ssp)
 * [Hennes Römmer](https://github.com/Hennnnes)
+* [Tina Umlandt](https://github.com/klyrr)
 
 ## List of coaches (28.05.2016)
 
