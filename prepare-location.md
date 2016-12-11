@@ -4,7 +4,7 @@
 - print direction signs
 - print signs for WC
 - ask for WLAN access
-- prepare table papers (wifi, github link, coc link, agenda)
+- prepare table papers (wifi, github link, coc link, agenda, sponsor logos)
 - ask for coffee / coffee maker instructions
 - Have enough trash cans around
 - If furniture is moved around: add markings to floor where it should be returned
