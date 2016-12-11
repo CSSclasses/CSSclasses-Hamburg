@@ -5,7 +5,7 @@
 * Create Facebook event (via OTS Account?)
 * Ask for coaches' emails ([add to list](https://cssclasses.slack.com/files/leonardkoch/F1XGGTF0T/Coaches_Emails_List))
 * Prepare location ([separate checklist](https://github.com/CSSclasses/CSSclasses-Hamburg/blob/master/prepare-location.md))
-* Prepare & Print Welcome Sheets (wifi, github link, coc link, agenda)
+* Prepare & Print Welcome Sheets (wifi, github link, coc link, agenda, sponsor logos)
 * Send preparation email to coaches ([Link](https://github.com/CSSclasses/CSSclasses-Hamburg/blob/master/coaches.md))
 * Take time for a rehearsal of the opening presentation
 * Order drinks, if not already provided by location sponsor ([formula](https://github.com/CSSclasses/CSSclasses-Hamburg/blob/master/list-food-drinks.md))
