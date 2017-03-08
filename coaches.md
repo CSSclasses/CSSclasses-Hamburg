@@ -61,9 +61,9 @@ Natürlich solltest du dir das Material vorher ansehen, das findest du hier: htt
 
 Uns ist außerdem wichtig, dass sich jeder bei unseren Workshops wohlfühlt. Wir tolerieren keinerlei Form von Belästigung. Daher bitten wir dich, einen Blick auf unseren Code of Conduct zu werfen, und diesen zu befolgen: http://cssclasses.cssconf.eu/code-of-conduct/
 
-Am Workshoptag selbst werden wir um 9:30 die Türen für die Teilnehmer öffnen. Bitte sei pünktlich – oder besser noch bereits um 9 Uhr vor Ort, um uns beim Aufbauen zu helfen. Es wäre schön, wenn du uns auch am Abend beim Aufräumen unterstützt.
+Am Workshoptag selbst werden wir um 9:30 die Türen für die Teilnehmer öffnen. Bitte sei pünktlich!
 
-Das Event findet bei Jimdo statt: https://goo.gl/maps/uAMpY8Lws5z
+Das Event findet bei mytaxi statt: https://goo.gl/J713Tf
 
 Wir freuen uns, dich an Bord zu haben!
 Isabel, Jonas, Klaus, Leonard, Markus, Stefan
@@ -71,3 +71,25 @@ Isabel, Jonas, Klaus, Leonard, Markus, Stefan
 hamburg@cssclass.es
 https://twitter.com/CSSclassesHH
 http://www.meetup.com/de-DE/opentechschool-hamburg/events/232074759/
+
+## Briefing via email (English version)
+
+Hi! Great that you'd like to join CSSclasses Hamburg as a coach!
+You probably wonder what your task will be exactly.
+
+CSSclasses, which evolved from being a part of CSSconf EU, follow the OpenTechSchool (OTS) principles. At OTS workshops, learners work through learning materials at their own pace. By themselves, or together with the person sitting next to them. As total beginners, or with some previous knowledge. As a coach you assist them by responding to questions, and helping when they get stuck. Most importantly, having fun is essential – you encourage attendees to try out new things and guide them through their next steps.
+
+Please read the OTS Coaching Guidelines and the Core Values carefully. They contain important hints and instructions on how we proceed.
+https://opentechschool.github.io/slides/presentations/coaching/
+http://www.opentechschool.org/about.html
+
+You should have a look at the learning materials as well, of course. You can find them here: http://cssclasses.cssconf.eu/materials
+
+Furthermore, it is important to us that everybody feels welcome and comfortable at our workshops. We do not tolerate any form of harassment. Please have a look at our Code of Conduct, and follow it strictly: http://cssclasses.cssconf.eu/code-of-conduct/
+
+At the day of the workshop we'll be opening the doors at 9:30 for the attendees. Please be on time!
+
+The event will take place at mytaxi: https://goo.gl/J713Tf
+
+We're pleased to have you on board!
+Isabel, Jonas, Klaus, Leonard, Markus, Stefan
