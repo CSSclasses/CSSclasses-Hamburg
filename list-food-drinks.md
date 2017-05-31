@@ -1,6 +1,6 @@
 ## Pizza and salad
 
-* `1 large Joey's Pizza per 2.3 persons => 45 attendees/2.3 = 19,565217391 => 20 pizzas`
+* `1 large Joey's or Geppettos Pizza per 2.3 persons => 45 attendees/2.3 = 19,565217391 => 20 pizzas`
 * salad: Don't use the same formula as for pizza - order one salad per person
 
 ## Drinks
